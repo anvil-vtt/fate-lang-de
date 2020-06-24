@@ -1,0 +1,73 @@
+{
+    "FATE": {
+        "Sheet": {
+            "TabSheet": "Bogen",
+            "TabBio": "Biografie",
+            "ID": "Allgemeines",
+            "Description": "Beschreibung",
+            "Details": "Details",
+            "Artwork": "Artwork",
+            "Biography": "Biografie",
+            "Points": "Punkte",
+            "FatePoints": "Fate-Punkte",
+            "Refresh": "Erholungsrate",
+            "Current": "Aktuell",
+            "HC": "Konzept",
+            "Trouble": "Dilemma",
+            "Aspects": "Aspekte",
+            "Relationship": "Beziehung",
+            "OtherAspect": "Anderer Aspekt",
+            "Skills": "Fertigkeiten",
+            "Extras": "Extras",
+            "Stunts": "Stunts",
+            "Stress": "Stress",
+            "PhysStress": "Körperlicher Stress (Kraft)",
+            "MentalStress": "Geistiger Stress (Wille)",
+            "Vitals": "Vitals",
+            "Cons": {
+                "Label": "Konsequenzen",
+                "Mild": "Leicht",
+                "Moderate": "Mittel",
+                "Severe": "Schwer",
+                "Physique": "P",
+                "Will": "W"
+            },
+            "Approaches": {
+                "Label": "Methoden",
+                "Careful": "Sorgfältig",
+                "Clever": "Scharfsinnig",
+                "Flashy": "Tollkühn",
+                "Forceful": "Kraftvoll",
+                "Quick": "Flink",
+                "Sneaky": "Tükisch"
+            }
+        },
+        "Item": {
+            "Physique": "Kraft",
+            "Will": "Wille",
+            "Level": "Fertigkeitsstufe",
+            "Permissions": "Berechtigungen",
+            "Costs": "Kosten",
+            "Actions": "Aktionen"
+        },
+        "Ladder": {
+            "Legendary": "Legendär",
+            "Epic": "Episch",
+            "Fantastic": "Fantastisch",
+            "Superb": "Hervorragend",
+            "Great": "Großartig",
+            "Good": "Gut",
+            "Fair": "Ordentlich",
+            "Average": "Durchschnittlich",
+            "Mediocre": "Mäßig",
+            "Poor": "Schwach",
+            "Terrible": "Fürchterlich"
+        },
+        "Actions": {
+            "overcome": "Überwinden",
+            "create": "Einen Vorteil erschaffen",
+            "attack": "Angreifen",
+            "defend": "Verteidigen"
+        }
+    }
+}
