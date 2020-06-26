@@ -16,7 +16,7 @@
             "Trouble": "Dilemma",
             "Aspects": "Aspekte",
             "Relationship": "Beziehung",
-            "OtherAspect": "Anderer Aspekt",
+            "OtherAspect": "Weiterer Aspekt",
             "Skills": "Fertigkeiten",
             "Extras": "Extras",
             "Stunts": "Stunts",
@@ -29,7 +29,7 @@
                 "Mild": "Leicht",
                 "Moderate": "Mittel",
                 "Severe": "Schwer",
-                "Physique": "P",
+                "Physique": "K",
                 "Will": "W"
             },
             "Approaches": {
@@ -65,7 +65,7 @@
         },
         "Actions": {
             "overcome": "Überwinden",
-            "create": "Einen Vorteil erschaffen",
+            "create": "Vorteil erschaffen",
             "attack": "Angreifen",
             "defend": "Verteidigen"
         }

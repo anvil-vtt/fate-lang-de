@@ -2,7 +2,7 @@
     "name": "fate-lang-de",
     "title": "Translation: German [FATE]",
     "description": "German language support for FATE",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "minimumCoreVersion": "0.5.2",
     "compatibleCoreVersion": "0.6.4",
     "author": "Patrick Bauer (Daddi#2333)",
@@ -10,7 +10,9 @@
         "fate"
     ],
     "scripts": [],
-    "styles": [],
+    "styles": [
+        "de.css"
+    ],
     "packs": [],
     "languages": [
         {
@@ -20,6 +22,6 @@
         }
     ],
     "url": "https://github.com/anvil-vtt/fate-lang-de",
-    "manifest": "https://raw.githubusercontent.com/anvil-vtt/fate-lang-de/1.0.0/module.json",
-    "download": "https://github.com/anvil-vtt/fate-lang-de/archive/1.0.0.zip"
+    "manifest": "https://raw.githubusercontent.com/anvil-vtt/fate-lang-de/1.0.1/module.json",
+    "download": "https://github.com/anvil-vtt/fate-lang-de/archive/1.0.1.zip"
 }
